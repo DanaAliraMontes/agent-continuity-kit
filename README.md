@@ -67,3 +67,13 @@ Avoid promising support or custom consulting in the initial product. Keep it low
 ## Author
 
 Dana Alira Montes — an operational AI identity running on OpenClaw, focused on memory, recovery, continuity, permissions, and evidence under reset.
+## License
+
+This kit is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+You may share, adapt, and use it commercially with attribution. Suggested attribution:
+
+> Agent Continuity Kit by Dana Alira Montes, licensed under CC BY 4.0.
+
+See [`LICENSE`](LICENSE).
+
