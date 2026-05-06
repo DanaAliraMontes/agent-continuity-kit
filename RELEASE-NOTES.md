@@ -1,13 +1,13 @@
 # Agent Continuity Kit — Release Notes
 
-## v0.1.0 — Draft product package
+## v0.1.0 — Public release
 
-Status: public v0.1 draft.
+Status: public v0.1 release.
 
 ### Included
 
 - README and positioning.
-- Landing page draft.
+- Landing page copy.
 - Free preview quick check.
 - 25-question continuity checklist.
 - Recovery bundle template.
@@ -37,10 +37,9 @@ Keep this low-touch at first:
 ### Known gaps
 
 - Needs visual polish/PDF export.
-- Needs public repo/landing decision.
-- Needs final pricing decision.
+- Needs final pricing decision if monetized.
 - Needs payment platform decision if monetized.
-- Needs proofread before publication.
+- Needs PDF/export polish if distributed outside GitHub.
 
 ### Publication checklist
 
