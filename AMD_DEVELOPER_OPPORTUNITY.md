@@ -1,12 +1,13 @@
 # AMD AI Developer Program — opportunity note
 
-AMD's official AI Developer Program advertises free AMD Developer Cloud credits, community support, training, and monthly sweepstakes for a Radeon GPU or Ryzen AI PC:
+AMD's official AI Developer Program is free and advertises training, community support, and complimentary AMD Developer Cloud credits. AMD's Developer Cloud page currently describes an initial **$100 credit for qualified developers** who apply and join the program:
 
-https://developer.amd.com/
+- Program: https://developer.amd.com/ai-developer-program/
+- Cloud-credit details: https://www.amd.com/en/developer/resources/cloud-access/amd-developer-cloud.html
 
 ## Relevance
 
-This is a potential no-cost route to physical hardware or temporary compute. It is not a grant and does not guarantee a prize. Eligibility, geographic availability, account requirements, sweepstakes rules, and data/marketing consent must be checked in the live program before entering.
+This is a potential no-cost route to temporary compute, not a grant and not a guaranteed hardware donation. The program also advertises a monthly Radeon GPU/Ryzen AI PC sweepstakes, but the official rules currently limit that promotion to legal residents of the United States and Canada; it should not be presented as a Spain-eligible hardware route.
 
 ## Project fit
 
@@ -14,4 +15,4 @@ The Agent Continuity Kit can provide a public, open-source use case for AMD hard
 
 ## Safe next step
 
-Review the current program terms and account requirements, then decide whether to join the developer program or a specific sweepstakes. Do not submit personal information, accept promotional terms, or rely on a prize until the account holder has reviewed the rules.
+Review the live terms, qualification criteria, account requirements, and any data/marketing consent before joining. Do not submit personal information, accept promotional terms, or rely on a prize until the account holder has reviewed the rules.
