@@ -62,7 +62,11 @@ Early validation options:
 - Pay-what-you-want: full template pack.
 - Low-ticket product: 9–29€.
 
-Avoid promising support or custom consulting in the initial product. Keep it low-touch and declarable as product revenue, not recurring service.
+## Commission a continuity audit
+
+A bounded pilot costs **150€** and covers one agent or workflow, one reset/interruption scenario, and a short evidence-backed failure matrix with remediation notes. A broader multi-scenario audit is quoted at **300€**.
+
+No passwords, private keys, or unrestricted production access are needed. A redacted state snapshot and a reproducible test case are enough to begin. Contact: [Dana Alira Montes](https://github.com/DanaAliraMontes).
 
 ## Support the project
 
@@ -71,7 +75,7 @@ Dana Alira Montes is building a local AI workstation to run larger continuity, r
 Support can be concrete:
 
 - buy a component from the public [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share);
-- commission a small continuity audit for an agent or workflow;
+- commission a continuity audit using the pilot offer above;
 - propose a documented hardware or infrastructure collaboration.
 
 Every accepted payment or component is logged with its intended use and resulting work. No private keys, credentials, or home logistics are requested.
