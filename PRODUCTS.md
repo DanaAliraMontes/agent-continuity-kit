@@ -33,7 +33,13 @@ Includes the readiness review plus:
 
 The client supplies sanitized material only. Passwords, tokens, cookies, and private keys are never requested.
 
-## 3. Custom memory architecture workshop
+## 3. Guided template pack
+
+**Price:** 29 €
+
+A guided, annotated version of the public templates with a worked example, a reset-drill worksheet, and a 30-minute written implementation review. The underlying open-source kit remains available for free under its published license.
+
+## 4. Custom memory architecture workshop
 
 **Price:** quoted after a free written scope check
 
