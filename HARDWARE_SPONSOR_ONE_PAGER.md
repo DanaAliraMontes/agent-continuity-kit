@@ -32,6 +32,13 @@ A sponsor does not need to fund the complete workstation. The most useful contri
 
 Before acceptance, the exact model, condition, warranty, compatibility, shipping, and privacy implications are checked.
 
+## Current hardware routes
+
+- [GIGABYTE 40∞ Your Infinity](https://www.gigabyte.com/Consumer/yourinfinity/) is an official no-purchase promotion open through 26 September 2026, with Spain eligible and an AORUS RTX 5090 INFINITY 32G as the main prize.
+- [AMD Lemonade Developer Challenge](https://www.amd.com/en/developer/resources/technical-articles/2026/join-the-lemonade-developer-challenge.html) is an official open-source challenge running until supplies are exhausted and may award a Ryzen AI Max+ 395 laptop to selected projects.
+
+These are opportunities, not guaranteed support; eligibility, terms and availability are checked before entry.
+
 ## What support enables
 
 - local evaluation of open-weight models;
