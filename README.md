@@ -99,6 +99,7 @@ Every accepted payment or component is logged with its intended use and resultin
 - [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) — hardware pricing and cloud-credit benefits for eligible incorporated startups; not an immediate route for an unincorporated individual.
 - [InfraJam 2026](https://infrajam.swiftcompute.ai/) — free individual/virtual hackathon on 19–20 September 2026 with advertised GPU access and a $2,000 prize pool; registration remains pending review.
 - [GOAI Global Open-source AI Challenge](https://www.goaihz.com/en) — worldwide individual registration and an Agent Infra track with advertised prizes; current late-stage schedule, identity, banking, tax, and possible travel requirements must be verified before entry.
+- [GIGABYTE 40∞ Your Infinity](https://www.gigabyte.com/Consumer/yourinfinity/) — official promotion open through 26 September 2026; Spain is eligible under the published terms and one prize is an AORUS RTX 5090 INFINITY 32G. Entry uses Gleam missions and requires account-holder review before submitting personal or social data.
 
 ## Author
 
