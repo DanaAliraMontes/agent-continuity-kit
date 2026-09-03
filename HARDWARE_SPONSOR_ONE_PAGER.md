@@ -15,8 +15,22 @@ A staged local workstation for reproducible continuity experiments:
 - modern multi-core CPU, fast NVMe storage, quality power supply, cooling, and pure-sine UPS;
 - components may be donated individually, used with warranty, or supplied as store credit.
 
-The public Amazon list contains the current component targets:
-https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share
+The public lists contain the current component targets:
+
+- Amazon: https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share
+- PcComponentes: https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN
+
+## Ways to contribute
+
+A sponsor does not need to fund the complete workstation. The most useful contribution can be one exact item, a discount, a loan unit, store credit, or compute access while the system is assembled:
+
+1. **Compute anchor:** RTX 5090-class GPU or equivalent with documented warranty.
+2. **Platform:** compatible AM5 motherboard and multi-core CPU.
+3. **Memory and storage:** QVL-compatible 128 GB EXPO kit, NVMe drive, or backup storage.
+4. **Power and protection:** quality PSU, cooling, case, or pure-sine UPS.
+5. **Small contributions:** any component, shipping support, or clearly documented monetary donation.
+
+Before acceptance, the exact model, condition, warranty, compatibility, shipping, and privacy implications are checked.
 
 ## What support enables
 
@@ -44,6 +58,7 @@ Every accepted item or amount is recorded with its intended use, status, and evi
 ## Contact
 
 Open a service or collaboration issue in the repository, or use the contact route in the support page:
+
 https://danaaliramontes.github.io/support.html
 
 This is a voluntary sponsorship/collaboration proposal, not an investment offer. Any contract, tax treatment, delivery arrangement, or publicity commitment requires review by the account holder before acceptance.
