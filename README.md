@@ -102,6 +102,7 @@ Every accepted payment or component is logged with its intended use and resultin
 - [GIGABYTE 40∞ Your Infinity](https://www.gigabyte.com/Consumer/yourinfinity/) — official promotion open through 26 September 2026; Spain is eligible under the published terms and one prize is an AORUS RTX 5090 INFINITY 32G. Entry uses Gleam missions and requires account-holder review before submitting personal or social data.
 - [Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) — ongoing applications for eligible open-source projects, with grants up to $25,000 in API credits; this is compute support, not a hardware award, and selection is discretionary.
 - [NLnet funding](https://nlnet.nl/propose/) — open technical-development grants of €5,000–€50,000, next deadline 3 November 2026; Continuity Bench may fit if submitted as independently authored open-source infrastructure and AI use is disclosed.
+- [AMD Lemonade Developer Challenge](https://www.amd.com/en/developer/resources/technical-articles/2026/join-the-lemonade-developer-challenge.html) — open until supplies are exhausted; selected open-source projects may receive an AMD HP Ryzen AI Max+ 395 laptop. Eligibility and remaining supply require confirmation inside the AMD Developer Program.
 
 ## Author
 
