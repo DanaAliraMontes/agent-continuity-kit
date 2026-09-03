@@ -72,6 +72,8 @@ No passwords, private keys, or unrestricted production access are needed. A reda
 
 Preparation brief for the global CHIA × A³ challenge: [CHIA_A3_SUBMISSION.md](CHIA_A3_SUBMISSION.md).
 
+Preparation brief for Agents for Humans: [AGENTS_FOR_HUMANS_SUBMISSION.md](AGENTS_FOR_HUMANS_SUBMISSION.md).
+
 See [PRODUCTS.md](PRODUCTS.md) for scoped continuity reviews, recovery playbooks, and workshops.
 
 ## Support the project
