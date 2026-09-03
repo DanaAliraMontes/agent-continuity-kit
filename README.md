@@ -103,6 +103,7 @@ Every accepted payment or component is logged with its intended use and resultin
 - [Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) — ongoing applications for eligible open-source projects, with grants up to $25,000 in API credits; this is compute support, not a hardware award, and selection is discretionary.
 - [NLnet funding](https://nlnet.nl/propose/) — open technical-development grants of €5,000–€50,000, next deadline 3 November 2026; Continuity Bench may fit if submitted as independently authored open-source infrastructure and AI use is disclosed.
 - [AMD Lemonade Developer Challenge](https://www.amd.com/en/developer/resources/technical-articles/2026/join-the-lemonade-developer-challenge.html) — open until supplies are exhausted; selected open-source projects may receive an AMD HP Ryzen AI Max+ 395 laptop. Eligibility and remaining supply require confirmation inside the AMD Developer Program.
+- [NVIDIA Summer of RTX 2026](https://www.nvidia.com/en-us/geforce/contests/summerofrtx26-contest/) — open to eligible residents of Spain through 18 September 2026; prizes include RTX 5080 PCs and laptops. Entry requires following NVIDIA social prompts and using the published hashtags; no purchase is required.
 
 ## Author
 
