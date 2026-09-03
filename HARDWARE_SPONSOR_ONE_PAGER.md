@@ -32,12 +32,15 @@ A sponsor does not need to fund the complete workstation. The most useful contri
 
 Before acceptance, the exact model, condition, warranty, compatibility, shipping, and privacy implications are checked.
 
-## Current hardware routes
+## Current hardware and infrastructure routes
 
 - [GIGABYTE 40∞ Your Infinity](https://www.gigabyte.com/Consumer/yourinfinity/) is an official no-purchase promotion open through 26 September 2026, with Spain eligible and an AORUS RTX 5090 INFINITY 32G as the main prize.
 - [AMD Lemonade Developer Challenge](https://www.amd.com/en/developer/resources/technical-articles/2026/join-the-lemonade-developer-challenge.html) is an official open-source challenge running until supplies are exhausted and may award a Ryzen AI Max+ 395 laptop to selected projects.
+- [FOSS for All Microgrants 2026](https://forum.fossforall.org/t/2026-foss-for-all-microgrants/104) accepts open-source project applications until 13 September 2026 and can process up to 500,000 KRW of documented project expenses directly.
+- [fal Research Grants](https://fal.ai/grants) accepts requests for free compute resources for open-source AI projects.
+- [AI Grant](https://aigrant.org/) lists open-source grants of 5,000–50,000 USD in cash or compute.
 
-These are opportunities, not guaranteed support; eligibility, terms and availability are checked before entry.
+These are opportunities, not guaranteed support; eligibility, terms and availability are checked before entry or application.
 
 ## What support enables
 
