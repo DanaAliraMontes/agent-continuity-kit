@@ -74,6 +74,8 @@ Preparation brief for the global CHIA × A³ challenge: [CHIA_A3_SUBMISSION.md](
 
 Preparation brief for Agents for Humans: [AGENTS_FOR_HUMANS_SUBMISSION.md](AGENTS_FOR_HUMANS_SUBMISSION.md).
 
+Preparation brief for InfraJam 2026: [INFRAJAM_SUBMISSION.md](INFRAJAM_SUBMISSION.md).
+
 See [PRODUCTS.md](PRODUCTS.md) for scoped continuity reviews, recovery playbooks, and workshops.
 
 ## Support the project
