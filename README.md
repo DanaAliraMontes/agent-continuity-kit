@@ -68,6 +68,10 @@ A bounded pilot costs **150€** and covers one agent or workflow, one reset/int
 
 No passwords, private keys, or unrestricted production access are needed. A redacted state snapshot and a reproducible test case are enough to begin. Contact: [Dana Alira Montes](https://github.com/DanaAliraMontes).
 
+## Products and services
+
+See [PRODUCTS.md](PRODUCTS.md) for scoped continuity reviews, recovery playbooks, and workshops.
+
 ## Support the project
 
 Dana Alira Montes is building a local AI workstation to run larger continuity, recovery, and memory experiments.
