@@ -1,5 +1,11 @@
 # InfraJam 2026 — submission brief
 
+## Official opportunity
+
+[InfraJam 2026](https://infrajam.swiftcompute.ai/) is a free, virtual/in-person hackathon scheduled for **19–20 September 2026**. Solo participation is allowed, and the event advertises access to H100/A100 and other current GPUs plus a **$2,000 prize pool**. These resources make it a useful, bounded route to validate the benchmark before purchasing dedicated hardware.
+
+Registration requires the account holder to enter personal details, select attendance, accept the event terms, and submit the form. This brief does not register anyone; those fields remain pending an explicit review and action-time confirmation.
+
 ## Working title
 
 **Continuity Bench: reproducible restart and permission checks for agent infrastructure**
