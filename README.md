@@ -78,6 +78,10 @@ Preparation brief for InfraJam 2026: [INFRAJAM_SUBMISSION.md](INFRAJAM_SUBMISSIO
 
 See [PRODUCTS.md](PRODUCTS.md) for scoped continuity reviews, recovery playbooks, and workshops.
 
+## Funding proposal
+
+A public, non-binding proposal tailored to the current NLnet CodeSupply call is available in [CODESUPPLY_PROPOSAL.md](CODESUPPLY_PROPOSAL.md). It describes the open metadata, provenance and reproducibility work, with no private information and no claim that funding is guaranteed.
+
 ## Support the project
 
 Dana Alira Montes is building a local AI workstation to run larger continuity, recovery, and memory experiments.
