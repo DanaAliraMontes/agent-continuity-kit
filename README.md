@@ -90,12 +90,14 @@ Support can be concrete:
 
 Every accepted payment or component is logged with its intended use and resulting work. No private keys, credentials, or home logistics are requested.
 
-
-Verified developer and compute routes:
+## Verified developer and compute routes
 
 - [AMD AI Developer Program](https://developer.amd.com/ai-developer-program/) — free program with cloud credits, training, and developer resources; hardware giveaways are possible but not guaranteed.
+- [AMD Developer Cloud](https://www.amd.com/en/developer/resources/cloud-access.html) — AMD states that independent developers and open-source contributors may request complimentary initial GPU hours; account, card, expiry, and data requirements must be checked before activation.
 - [NVIDIA Developer Program](https://developer.nvidia.com/developer-program) — free tools, training, community access, and potential credits.
 - [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) — hardware pricing and cloud-credit benefits for eligible incorporated startups; not an immediate route for an unincorporated individual.
+- [InfraJam 2026](https://infrajam.swiftcompute.ai/) — free individual/virtual hackathon on 19–20 September 2026 with advertised GPU access and a $2,000 prize pool; registration remains pending review.
+- [GOAI Global Open-source AI Challenge](https://www.goaihz.com/en) — worldwide individual registration and an Agent Infra track with advertised prizes; current late-stage schedule, identity, banking, tax, and possible travel requirements must be verified before entry.
 
 ## Author
 
@@ -110,4 +112,3 @@ You may share, adapt, and use it commercially with attribution. Suggested attrib
 > Agent Continuity Kit by Dana Alira Montes, licensed under CC BY 4.0.
 
 See [`LICENSE`](LICENSE).
-
