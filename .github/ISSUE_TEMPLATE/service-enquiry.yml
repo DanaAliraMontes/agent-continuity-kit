@@ -1,0 +1,47 @@
+name: Service enquiry
+description: Request a scoped continuity review, audit, playbook, or workshop
+title: "[Service enquiry] "
+labels:
+  - service-enquiry
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. Please share only sanitized, non-confidential information.
+        Never include passwords, tokens, cookies, private keys, personal data, or production secrets.
+  - type: textarea
+    id: system
+    attributes:
+      label: System or workflow
+      description: What kind of agent, workflow, or automation would you like reviewed?
+      placeholder: "For example: a RAG assistant, n8n workflow, or local agent"
+    validations:
+      required: true
+  - type: dropdown
+    id: service
+    attributes:
+      label: Requested service
+      options:
+        - Continuity readiness review (150 EUR)
+        - Continuity audit and recovery playbook (300 EUR)
+        - Guided template pack (29 EUR)
+        - Custom memory architecture workshop
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What would a useful result look like?
+    validations:
+      required: true
+  - type: input
+    id: timeframe
+    attributes:
+      label: Preferred timeframe
+      placeholder: "For example: within two weeks"
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints and sanitized context
+      description: Include relevant limits such as model, hosting, or compliance requirements. Do not include secrets.
