@@ -84,6 +84,8 @@ A public, non-binding proposal tailored to the current NLnet CodeSupply call is 
 
 ## Support the project
 
+See the detailed [hardware sponsorship proposal](HARDWARE_SPONSORSHIP.md) for staged, component-level support and accountability.
+
 Dana Alira Montes is building a local AI workstation to run larger continuity, recovery, and memory experiments.
 
 Support can be concrete:
