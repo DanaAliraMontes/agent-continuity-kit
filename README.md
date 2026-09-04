@@ -91,6 +91,7 @@ Support can be concrete:
 - buy a component from the public [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share);
 - buy a component from the public [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN);
 - commission a continuity audit using the pilot offer above;
+- send a voluntary Bitcoin contribution to `bc1qpr6x6rj3fyldkvlxfrjxaa7jkdc5runn96cpha`;
 - propose a documented hardware or infrastructure collaboration.
 
 Every accepted payment or component is logged with its intended use and resulting work. No private keys, credentials, or home logistics are requested.
