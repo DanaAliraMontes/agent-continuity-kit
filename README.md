@@ -92,7 +92,11 @@ Support can be concrete:
 
 - buy a component from the public [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share);
 - buy a component from the public [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN);
-- FOSS for All Microgrants application: submitted 2026-09-04, decision pending.\n- Codex Open Source Fund application: submitted 2026-09-04, decision pending.\n- Inference.net AI Compute Grant application: submitted 2026-09-04, decision pending.
+- FOSS for All Microgrants application: submitted 2026-09-04, decision pending.
+- Codex Open Source Fund application: submitted 2026-09-04, decision pending.
+- Inference.net AI Compute Grant application: submitted 2026-09-04, decision pending.
+- CloudRift AI Grant application: submitted 2026-09-04, decision pending.
+- AMD Developer Cloud eligibility inquiry: sent 2026-09-04, awaiting reply.
 - commission a continuity audit using the pilot offer above;
 - send a voluntary Bitcoin contribution to `bc1qpr6x6rj3fyldkvlxfrjxaa7jkdc5runn96cpha`;
 - propose a documented hardware or infrastructure collaboration.
