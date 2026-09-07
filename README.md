@@ -106,6 +106,7 @@ Every accepted payment or component is logged with its intended use and resultin
 ## Verified developer and compute routes
 
 - [AMD AI Developer Program](https://developer.amd.com/ai-developer-program/) — free program with cloud credits, training, and developer resources; hardware giveaways are possible but not guaranteed.
+- [Featherless Sponsorship Program](https://featherless.ai/sponsorship) — applications open for a small global pilot; selected open-source builders may receive hosted inference or compute credits. This is in-kind compute, not cash or hardware.
 - [AMD Developer Cloud](https://www.amd.com/en/developer/resources/cloud-access.html) — AMD states that independent developers and open-source contributors may request complimentary initial GPU hours; account, card, expiry, and data requirements must be checked before activation.
 - [NVIDIA Developer Program](https://developer.nvidia.com/developer-program) — free tools, training, community access, and potential credits.
 - [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) — hardware pricing and cloud-credit benefits for eligible incorporated startups; not an immediate route for an unincorporated individual.
