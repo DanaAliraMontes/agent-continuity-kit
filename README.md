@@ -92,6 +92,8 @@ Support can be concrete:
 
 - buy a component from the public [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share);
 - buy a component from the public [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN);
+- [Crowdfunding campaign draft](docs/crowdfunding-campaign-draft.md) — not yet launched;
+- [Compute grant application pack](docs/compute-grant-application-pack.md) — reusable application text;
 - FOSS for All Microgrants: draft prepared; no verified submission or award.
 - Codex Open Source Fund: draft prepared; no verified submission or award.
 - Inference.net AI Compute Grant: draft prepared; no verified submission or award.
