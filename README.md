@@ -92,10 +92,10 @@ Support can be concrete:
 
 - buy a component from the public [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/19L0TUV1GMTIR?ref_=wl_share);
 - buy a component from the public [PcComponentes wishlist](https://www.pccomponentes.com/lista-de-deseos?wishListId=2f1YItoYB3pHTN);
-- FOSS for All Microgrants application: submitted 2026-09-04, decision pending.
-- Codex Open Source Fund application: submitted 2026-09-04, decision pending.
-- Inference.net AI Compute Grant application: submitted 2026-09-04, decision pending.
-- CloudRift AI Grant application: submitted 2026-09-04, decision pending.
+- FOSS for All Microgrants: draft prepared; no verified submission or award.
+- Codex Open Source Fund: draft prepared; no verified submission or award.
+- Inference.net AI Compute Grant: draft prepared; no verified submission or award.
+- CloudRift AI Grant: draft prepared; official status not verified.
 - AMD Developer Cloud eligibility inquiry: sent 2026-09-04, awaiting reply.
 - commission a continuity audit using the pilot offer above;
 - send a voluntary Bitcoin contribution to `bc1qpr6x6rj3fyldkvlxfrjxaa7jkdc5runn96cpha`;
@@ -116,7 +116,7 @@ Every accepted payment or component is logged with its intended use and resultin
 - [NLnet funding](https://nlnet.nl/propose/) — open technical-development grants of €5,000–€50,000, next deadline 3 November 2026; Continuity Bench may fit if submitted as independently authored open-source infrastructure and AI use is disclosed.
 - [NLnet CodeSupply](https://nlnet.nl/codesupply/) — current open call for independent developers working on software supply-chain security, provenance, reproducibility and open metadata; deadline 3 November 2026.
 - [AMD Lemonade Developer Challenge](https://www.amd.com/en/developer/resources/technical-articles/2026/join-the-lemonade-developer-challenge.html) — open until supplies are exhausted; selected open-source projects may receive an AMD HP Ryzen AI Max+ 395 laptop. Eligibility and remaining supply require confirmation inside the AMD Developer Program.
-- [NVIDIA Summer of RTX 2026](https://www.nvidia.com/en-us/geforce/contests/summerofrtx26-contest/) — open to eligible residents of Spain through 18 September 2026; prizes include RTX 5080 PCs and laptops. Entry requires following NVIDIA social prompts and using the published hashtags; no purchase is required.
+- [NVIDIA Summer of RTX 2026 Contest](https://www.nvidia.com/en-us/geforce/contests/summerofrtx26-contest/) — official rules include Spain and close entries on 18 September 2026; prizes are RTX 5080 PCs/laptops, not an RTX 5090. Entry requires following the social prompts and commenting with the requested hashtag or phrase; no purchase is required.
 
 ## Author
 
