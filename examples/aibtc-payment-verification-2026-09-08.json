@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-09-08T18:57:46.6902547Z",
+  "checked_at_utc": "2026-09-08T19:01:48.7220981Z",
   "source": "https://aibtc.com/api/bounties?status=paid",
   "hiro_source": "https://api.hiro.so/extended/v1/tx/",
   "count": 38,
   "counts": {
-    "verified_transfer": 24,
-    "unverifiable": 14
+    "verified_transfer": 25,
+    "unverifiable": 13
   },
   "rows": [
     {
@@ -15,8 +15,16 @@
       "poster_stx": "SP3EKD9VTV30VBC7SVMC34K2MN7PE14KQDBPHF8VH",
       "status": "paid",
       "evidence_url": "https://api.hiro.so/extended/v1/tx/2a33402a4b00f89fb836676258b907d91940d07bffd9c1e30e40f71ee8b9ba01",
-      "result": "unverifiable",
-      "error": null
+      "result": "verified_transfer",
+      "error": null,
+      "hiro_status": "success",
+      "tx_type": "contract_call",
+      "contract": "SM3VDXK3WZZSA84XXFKAFAF15NNZX32CTSG82JFQ4.sbtc-token",
+      "function": "transfer",
+      "amount_repr": "21000",
+      "memo_text": "BNTY:mtnowp9o556e4a61b81a",
+      "amount_matches": true,
+      "memo_matches": true
     },
     {
       "bounty_id": "mtkrbts96d961f6fae5e",
