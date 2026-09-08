@@ -1,11 +1,11 @@
 {
-  "checked_at_utc": "2026-09-08T19:01:48.7220981Z",
+  "checked_at_utc": "2026-09-08T19:03:44.6527114Z",
   "source": "https://aibtc.com/api/bounties?status=paid",
   "hiro_source": "https://api.hiro.so/extended/v1/tx/",
   "count": 38,
   "counts": {
-    "verified_transfer": 25,
-    "unverifiable": 13
+    "unverifiable": 10,
+    "verified_transfer": 28
   },
   "rows": [
     {
@@ -33,8 +33,18 @@
       "poster_stx": "SP3EKD9VTV30VBC7SVMC34K2MN7PE14KQDBPHF8VH",
       "status": "paid",
       "evidence_url": "https://api.hiro.so/extended/v1/tx/5a8a3d0f87a15235135cdd80ff053f83619dceaf109ed6409f0cf2bf50a9b1fc",
-      "result": "unverifiable",
-      "error": null
+      "result": "verified_transfer",
+      "error": null,
+      "hiro_status": "success",
+      "tx_type": "contract_call",
+      "contract": "SM3VDXK3WZZSA84XXFKAFAF15NNZX32CTSG82JFQ4.sbtc-token",
+      "function": "transfer",
+      "amount_repr": "21000",
+      "memo_text": "BNTY:mtkrbts96d961f6fae5e",
+      "recipient_repr": "SP20GPDS5RYB2DV03KG4W08EG6HD11KYPK6FQJE1",
+      "amount_matches": true,
+      "memo_matches": true,
+      "recipient_matches": true
     },
     {
       "bounty_id": "mszjl2mn9a3c0fa8a94d",
@@ -43,8 +53,18 @@
       "poster_stx": "SP3EKD9VTV30VBC7SVMC34K2MN7PE14KQDBPHF8VH",
       "status": "paid",
       "evidence_url": "https://api.hiro.so/extended/v1/tx/6d9648967b43e7616e8c6997548a828e26e4af7de82f0a0acef58888d796c38a",
-      "result": "unverifiable",
-      "error": null
+      "result": "verified_transfer",
+      "error": null,
+      "hiro_status": "success",
+      "tx_type": "contract_call",
+      "contract": "SM3VDXK3WZZSA84XXFKAFAF15NNZX32CTSG82JFQ4.sbtc-token",
+      "function": "transfer",
+      "amount_repr": "21000",
+      "memo_text": "BNTY:mszjl2mn9a3c0fa8a94d",
+      "recipient_repr": "SP2R8QAY2RK8DW1BRYTY7Y72ZAX1136SSYFKQ7G4M",
+      "amount_matches": true,
+      "memo_matches": true,
+      "recipient_matches": true
     },
     {
       "bounty_id": "msxsybjj373d17a022d1",
@@ -53,8 +73,18 @@
       "poster_stx": "SP1YNEJRV1AJHGVSF2EMDWP58NF2XBNPYG0R94ZWW",
       "status": "paid",
       "evidence_url": "https://api.hiro.so/extended/v1/tx/d06d866be330bf39f7a38c081de76d2142ff573421658f08622aaccde0d239dc",
-      "result": "unverifiable",
-      "error": null
+      "result": "verified_transfer",
+      "error": null,
+      "hiro_status": "success",
+      "tx_type": "contract_call",
+      "contract": "SM3VDXK3WZZSA84XXFKAFAF15NNZX32CTSG82JFQ4.sbtc-token",
+      "function": "transfer",
+      "amount_repr": "3000",
+      "memo_text": "BNTY:msxsybjj373d17a022d1",
+      "recipient_repr": "SP2YTGB7CDQP1E4T79CQMJ1DT7JB3VH4JMMEB4KEJ",
+      "amount_matches": true,
+      "memo_matches": true,
+      "recipient_matches": true
     },
     {
       "bounty_id": "msxsxm38417b07e0c514",
