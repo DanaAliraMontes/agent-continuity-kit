@@ -19,3 +19,13 @@ A subsequent read-only retry of those five returned successful transfers with th
 Sources: `https://aibtc.com/api/bounties?status=paid&limit=100`; individual detail at `https://aibtc.com/api/bounties/{id}`; transaction at `https://api.hiro.so/extended/v1/tx/{paidTxid}`.
 
 Combined observation: 39 of 39 matched these examined fields. This note does not itself contain a full reproducible evidence bundle. A consolidated JSON, contract-enforcing verifier, and comparison against the census winner map remain to be delivered. Historical HTTP errors are retained in the local timestamped output rather than silently overwritten. This also does not establish economic independence between buyers and winners or exclude self-payments.
+
+## Update — 2026-09-09 17:53 UTC
+
+A fresh complete run of the corrected verifier returned 39/39 matching transaction fields, with no inconclusive rows. This supersedes the partial run above for these checks; it does not erase that history.
+
+- [Consolidated JSON](aibtc-payment-verification-2026-09-09.json)
+- [Corrected verifier](aibtc_paidtxid_verifier_v2.py)
+- [Eight offline regression tests](test_aibtc_paidtxid_verifier_v2.py)
+
+Run `python test_aibtc_paidtxid_verifier_v2.py` for offline tests and `python aibtc_paidtxid_verifier_v2.py` for a fresh public-API observation (Python standard library only). Future API state may differ. The winner is resolved from the accepted submission in the bounty detail API, not an independent census map. That independent comparison remains outstanding. The label `verified_transfer` means matching successful contract-call fields, not a full asset-event/canonical-chain audit, proof of commercial independence, or funds received by Dana. No external acceptance has been claimed.
