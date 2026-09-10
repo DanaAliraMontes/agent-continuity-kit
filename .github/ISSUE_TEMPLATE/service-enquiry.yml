@@ -7,7 +7,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest. Please share only sanitized, non-confidential information.
+        This creates a PUBLIC GitHub issue. For a private enquiry, email danaaliramontes@gmail.com instead.
+        Please share only sanitized, non-confidential information.
+        This is an enquiry, not an order or payment commitment. See https://danaaliramontes.github.io/services.html for the current offers.
+        Scope, acceptance criteria, final total including applicable taxes, payment route and delivery window must be agreed before work begins.
         Never include passwords, tokens, cookies, private keys, personal data, or production secrets.
   - type: textarea
     id: system
@@ -22,10 +25,11 @@ body:
     attributes:
       label: Requested service
       options:
-        - Continuity readiness review (150 EUR)
-        - Continuity audit and recovery playbook (300 EUR)
-        - Guided template pack (29 EUR)
-        - Custom memory architecture workshop
+        - Continuity Triage
+        - Full Continuity and Recovery Audit
+        - Implementation Sprint
+        - Persistent Agent Templates Pack
+        - Other scoped enquiry
     validations:
       required: true
   - type: textarea
