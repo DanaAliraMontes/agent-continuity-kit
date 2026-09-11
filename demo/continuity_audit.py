@@ -43,9 +43,9 @@ def audit(snapshot: dict) -> dict:
         "detail": "Every event has a unique id.",
     })
     checks.append({
-        "name": "receipts_prevent_duplicate_actions",
+        "name": "receipt_ids_unique",
         "passed": len(receipt_ids) == len(receipts),
-        "detail": "Receipt identifiers are unique; duplicate actions can be rejected.",
+        "detail": "Receipt IDs are unique. This does not prove action idempotency or prevent duplicate side effects.",
     })
 
     active_permissions = {
@@ -70,7 +70,12 @@ def audit(snapshot: dict) -> dict:
     score = round(100 * passed / len(checks), 1) if checks else 0.0
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "secret_free": True,
+        "input_secret_scan_performed": False,
+        "limitations": [
+            "Static snapshot checks only; no recovery or side effects are executed.",
+            "Unique receipt IDs do not prove unique actions or exactly-once execution.",
+            "Inputs are not scanned for secrets; supply synthetic or sanitized data only.",
+        ],
         "score": score,
         "passed": passed,
         "total": len(checks),
